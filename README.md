@@ -11,6 +11,7 @@ Each project is listed below with links to:
 | #   | Project Name    | GitHub Repo                                           | Live Demo                                             |
 | --- | --------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | 1   | Quote Generator | [Repo](https://github.com/Abdo-Rabea/quote-generator) | [Demo](https://abdo-rabea.github.io/quote-generator/) |
+| 2   | Infinite Scroll | [Repo](https://github.com/Abdo-Rabea/infinite-scroll) | [Demo](https://abdo-rabea.github.io/infinite-scroll)  |
 
 ---
 
