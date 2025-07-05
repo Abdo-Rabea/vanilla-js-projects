@@ -14,6 +14,7 @@ Each project is listed below with links to:
 | 2   | Infinite Scroll    | [Repo](https://github.com/Abdo-Rabea/infinite-scroll)    | [Demo](https://abdo-rabea.github.io/infinite-scroll)    |
 | 3   | Picture In Picture | [Repo](https://github.com/Abdo-Rabea/picture-in-picture) | [Demo](https://abdo-rabea.github.io/picture-in-picture) |
 | 4   | Joke Teller        | [Repo](https://github.com/Abdo-Rabea/joke-teller)        | [Demo](https://abdo-rabea.github.io/joke-teller)        |
+| 4   | Light Dark Mode    | [Repo](https://github.com/Abdo-Rabea/light-dark-mode)    | [Demo](https://abdo-rabea.github.io/light-dark-mode)    |
 
 
 ---
