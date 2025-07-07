@@ -8,14 +8,15 @@ Each project is listed below with links to:
 ---
 ## Project Index
 
-| #   | Project Name       | GitHub Repo                                              | Live Demo                                               |
-| --- | ------------------ | -------------------------------------------------------- | ------------------------------------------------------- |
-| 1   | Quote Generator    | [Repo](https://github.com/Abdo-Rabea/quote-generator)    | [Demo](https://abdo-rabea.github.io/quote-generator/)   |
-| 2   | Infinite Scroll    | [Repo](https://github.com/Abdo-Rabea/infinite-scroll)    | [Demo](https://abdo-rabea.github.io/infinite-scroll)    |
-| 3   | Picture In Picture | [Repo](https://github.com/Abdo-Rabea/picture-in-picture) | [Demo](https://abdo-rabea.github.io/picture-in-picture) |
-| 4   | Joke Teller        | [Repo](https://github.com/Abdo-Rabea/joke-teller)        | [Demo](https://abdo-rabea.github.io/joke-teller)        |
-| 5   | Light Dark Mode    | [Repo](https://github.com/Abdo-Rabea/light-dark-mode)    | [Demo](https://abdo-rabea.github.io/light-dark-mode)    |
-| 6   | Animated Template  | [Repo](https://github.com/Abdo-Rabea/animated-template)  | [Demo](https://abdo-rabea.github.io/animated-template)  |
+| #   | Project Name        | GitHub Repo                                               | Live Demo                                                |
+| --- | ------------------- | --------------------------------------------------------- | -------------------------------------------------------- |
+| 1   | Quote Generator     | [Repo](https://github.com/Abdo-Rabea/quote-generator)     | [Demo](https://abdo-rabea.github.io/quote-generator/)    |
+| 2   | Infinite Scroll     | [Repo](https://github.com/Abdo-Rabea/infinite-scroll)     | [Demo](https://abdo-rabea.github.io/infinite-scroll)     |
+| 3   | Picture In Picture  | [Repo](https://github.com/Abdo-Rabea/picture-in-picture)  | [Demo](https://abdo-rabea.github.io/picture-in-picture)  |
+| 4   | Joke Teller         | [Repo](https://github.com/Abdo-Rabea/joke-teller)         | [Demo](https://abdo-rabea.github.io/joke-teller)         |
+| 5   | Light Dark Mode     | [Repo](https://github.com/Abdo-Rabea/light-dark-mode)     | [Demo](https://abdo-rabea.github.io/light-dark-mode)     |
+| 6   | Animated Template   | [Repo](https://github.com/Abdo-Rabea/animated-template)   | [Demo](https://abdo-rabea.github.io/animated-template)   |
+| 7   | Animated Navigation | [Repo](https://github.com/Abdo-Rabea/animated-navigation) | [Demo](https://abdo-rabea.github.io/animated-navigation) |
 
 
 ---
