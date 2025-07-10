@@ -17,6 +17,7 @@ Each project is listed below with links to:
 | 5   | Light Dark Mode     | [Repo](https://github.com/Abdo-Rabea/light-dark-mode)     | [Demo](https://abdo-rabea.github.io/light-dark-mode)     |
 | 6   | Animated Template   | [Repo](https://github.com/Abdo-Rabea/animated-template)   | [Demo](https://abdo-rabea.github.io/animated-template)   |
 | 7   | Animated Navigation | [Repo](https://github.com/Abdo-Rabea/animated-navigation) | [Demo](https://abdo-rabea.github.io/animated-navigation) |
+| 7   | Sound Player        | [Repo](https://github.com/Abdo-Rabea/sound-player)        | [Demo](https://abdo-rabea.github.io/sound-player)        |
 
 
 ---
