@@ -21,6 +21,7 @@ Each project is listed below with links to:
 | 9   | custom countdown    | [Repo](https://github.com/Abdo-Rabea/custom-countdown)    | [Demo](https://abdo-rabea.github.io/custom-countdown)    |
 | 10  | Bookmark App        | [Repo](https://github.com/Abdo-Rabea/bookmark-app)        | [Demo](https://abdo-rabea.github.io/bookmark-app)        |
 | 11  | Custom Video Player | [Repo](https://github.com/Abdo-Rabea/video-player)        | [Demo](https://abdo-rabea.github.io/video-player)        |
+| 12  | Form Validator      | [Repo](https://github.com/Abdo-Rabea/form-validator)      | [Demo](https://abdo-rabea.github.io/form-validator)      |
 
 ---
 
