@@ -25,7 +25,8 @@ Each project is listed below with links to:
 | 13  | Spock Rock Game     | [Repo](https://github.com/Abdo-Rabea/spock-rock-game)     | [Demo](https://abdo-rabea.github.io/spock-rock-game)     |
 | 14  | Nasa Api Pictures   | [Repo](https://github.com/Abdo-Rabea/nasa-api-pictures)   | [Demo](https://abdo-rabea.github.io/nasa-api-pictures)   |
 | 15  | Math Sprint Game    | [Repo](https://github.com/Abdo-Rabea/math-sprint-game)    | [Demo](https://abdo-rabea.github.io/math-sprint-game)    |
-| 16  | Math Sprint Game    | [Repo](https://github.com/Abdo-Rabea/drag-and-drop)       | [Demo](https://abdo-rabea.github.io/drag-and-drop)       |
+| 16  | Drag And Drop       | [Repo](https://github.com/Abdo-Rabea/drag-and-drop)       | [Demo](https://abdo-rabea.github.io/drag-and-drop)       |
+| 17  | Calculator          | [Repo](https://github.com/Abdo-Rabea/calculator)          | [Demo](https://abdo-rabea.github.io/calculator)          |
 
 ---
 
