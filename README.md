@@ -28,6 +28,7 @@ Each project is listed below with links to:
 | 16  | Drag And Drop       | [Repo](https://github.com/Abdo-Rabea/drag-and-drop)       | [Demo](https://abdo-rabea.github.io/drag-and-drop)       |
 | 17  | Calculator          | [Repo](https://github.com/Abdo-Rabea/calculator)          | [Demo](https://abdo-rabea.github.io/calculator)          |
 | 18  | Splash Page         | [Repo](https://github.com/Abdo-Rabea/splash-page)         | [Demo](https://abdo-rabea.github.io/splash-page)         |
+| 19  | Paint Clone         | [Repo](https://github.com/Abdo-Rabea/paint-clone)         | [Demo](https://abdo-rabea.github.io/paint-clone)         |
 
 ---
 
